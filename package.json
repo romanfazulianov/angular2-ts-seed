@@ -15,7 +15,7 @@
     "tsc:w": "tsc -w",
     "typings": "typings"
   },
-  "author": "",
+  "author": "Fazulianov Roman",
   "license": "ISC",
   "dependencies": {
     "@angular/common": "2.0.0-rc.1",
