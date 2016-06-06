@@ -1,7 +1,7 @@
 {
-  "name": "Angular 2 Typescript Seed",
+  "name": "Angular2 TypeScript seed",
   "version": "1.0.0",
-  "description": "Angular 2 project seed with TypeScript",
+  "description": "Angular2 project seed using TypeScript",
   "main": "index.html",
   "repository": {
     "type": "git",
